@@ -1,20 +1,27 @@
-## Hi there 👋
+## 👋 Hi there
 
-Tôi xin giới thiệu đôi chút về bản thân
-- 🔭 Tôi là Nguyễn Phúc Công
-- 🌱 Trường Đại Học Tài Nguyên và Môi Trường Hà Nội
-- 👤 Một vài tính cách nổi bật
-        . Ham học hỏi
-        . Biết lắng nghe
-        . Làm việc nhóm và làm việc độc lập
-- 🤔 Sở thích cá nhân :
-        . 🎧 Nghe nhạc để thư giãn
-        . 🎬 Xem phim
-        . 📚 Đọc sách để phát triển bản thân và mở rộng tư duy
-- 📫 Liên hệ với tôi:
-        . 💼 Facebook: https://www.facebook.com/cong.hunre
-        . ✉️ Email: phuccong9603@gmail.com
-  ## 🧠 Kỹ năng chuyên môn
+Tôi xin giới thiệu đôi chút về bản thân:
+
+- 🔭 Tôi là **Nguyễn Phúc Công**
+- 🌱 Sinh viên tại **Trường Đại Học Tài Nguyên và Môi Trường Hà Nội**
+
+### 👤 Một vài tính cách nổi bật:
+- 📘 Ham học hỏi  
+- 👂 Biết lắng nghe  
+- 🤝 Làm việc nhóm tốt và làm việc độc lập hiệu quả  
+
+### 🎯 Sở thích cá nhân:
+- 🎧 Nghe nhạc để thư giãn  
+- 🎬 Xem phim  
+- 📚 Đọc sách để phát triển bản thân và mở rộng tư duy  
+
+### 📫 Liên hệ với tôi:
+- 💼 Facebook: [facebook.com/cong.hunre](https://www.facebook.com/cong.hunre)  
+- ✉️ Email: phuccong9603@gmail.com  
+
+---
+
+## 🧠 Kỹ năng chuyên môn
 
 ### 💻 Ngôn ngữ lập trình
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white) 
@@ -46,7 +53,7 @@ Tôi xin giới thiệu đôi chút về bản thân
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 ![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=flat&logo=microsoftsqlserver&logoColor=white)
 
-### 🧩 Mô hình & quy trình
+### 🧩 Mô hình & Quy trình
 ![MVC](https://img.shields.io/badge/MVC-Architecture-blue?style=flat)
 ![Agile](https://img.shields.io/badge/Agile-1D3557?style=flat)
 ![Scrum](https://img.shields.io/badge/Scrum-FFCA28?style=flat)
