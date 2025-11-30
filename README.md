@@ -3,7 +3,7 @@
 Tôi xin giới thiệu đôi chút về bản thân:
 
 - 🔭 Tôi là **Nguyễn Phúc Công**
-- 🌱 Sinh viên tại **Trường Đại Học Tài Nguyên và Môi Trường Hà Nội**
+- 🌱 Cử nhân công nghệ thông tin **Trường Đại Học Tài Nguyên và Môi Trường Hà Nội**
 
 ### 👤 Một vài tính cách nổi bật:
 - 📘 Ham học hỏi  
